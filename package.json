@@ -1,0 +1,28 @@
+{
+  "name": "terminal-puzzle",
+  "version": "1.0.0",
+  "description": "Terminal application to train multiple terminal work",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanroscoche/terminal-puzzle.git"
+  },
+  "keywords": [
+    "terminal",
+    "puzzle",
+    "train"
+  ],
+  "author": "Allan Roscoche",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/allanroscoche/terminal-puzzle/issues"
+  },
+  "homepage": "https://github.com/allanroscoche/terminal-puzzle#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
