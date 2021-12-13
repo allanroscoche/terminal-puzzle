@@ -1,2 +1,2 @@
 # terminal-puzzle
-Terminal application to train multiple terminal work
+Terminal application to practice multiple terminal work
